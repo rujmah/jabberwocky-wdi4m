@@ -9,6 +9,9 @@ A static html rendition of the Lewis Carroll poem, Jabberwocky, designed using t
  - `npm install`
  - `npm run watch` - reloads on changes
 
+## Credits
 
+ - As already mentioned, Jeremy Thomas
+ - Photo Credit [Todd Diemer](https://unsplash.com/@todd_diemer) and the folks at [Unslash](https://unsplash.com)
 
 
