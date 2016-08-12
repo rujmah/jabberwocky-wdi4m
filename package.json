@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "test": "npm test",
-    "watch": "./node_modules/.bin/reload -b -d ./src -p 3333"
+    "watch": "./node_modules/.bin/reload -b -d ./src -p 3333",
+    "start": "npm run watch"
   },
   "repository": {
     "type": "git",
