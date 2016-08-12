@@ -1,0 +1,19 @@
+{
+  "name": "jabberwocky-wdi4m",
+  "version": "1.0.0",
+  "description": "Web Design in 4 Minutes inspired rendition of Lewis Carroll's Jabberwocky",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test",
+    "watch": "./node_modules/.bin/reload -b -d ./src -p 3333"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/rujmah/jabberwocky-wdi4m"
+  },
+  "author": "rujmah <rjjm@rjjm.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "reload": "^1.0.1"
+  }
+}
